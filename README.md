@@ -36,6 +36,23 @@ Quantilope](https://www.insiderintelligence.com/insights/top-healthcare-wearable
 3. How could these trends help influence Bellabeat marketing strategy?
    * These trends can help identify Bellabeats' audience of women, and where to promote it. Social networking sites such as Facebook, Instagram, and Pinterest are very popular amongst women and they spend the majority of their time on their electronic devices on these apps. Ivy’s elegant style can be used to its advantage with its abilities to analyze the body's vitals, and is relatable since it can also help track a woman's menstrual cycle. This can also increase Bellabeats brand and make women feel as if they have a company who understands them, by making sure they are in top condition as they live their story.
 
-     Task: Make recommendations to BellaBeats Marketing team to help them see how consumers use wearable technology.
+  Task: Make recommendations to BellaBeats Marketing team to help them see how consumers use wearable technology.
+
+# Prepare
+
+Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
+
+* This data set was conducted through a survey of 33 individuals who used the health tracker to measure their vital data.
+* Things such as heart rate, sleep monitoring, and physical output were recorded in this exercise.
+* Though this data is limited by varying factors such as gender, age, and lifestyle, it still covers a general perspective of what a health tracker gathers from individuals.
+
+  For more information here's the link  for the background of the study along with the licenses. 
+
+  [Furberg, Robert; Brinton, Julia; Keating, Michael ; Ortiz, Alexa](https://zenodo.org/record/53894#.YMoUpnVKiP9)
+
+# Process
+
+
+
 
   
