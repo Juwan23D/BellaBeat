@@ -117,11 +117,11 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 ![Most](https://github.com/Juwan23D/BellaBeat/blob/main/Screenshot_7-5-2024_123333_docs.google.com.jpeg)
 # Share
 
-**BellaBeat Dashboard(https://public.tableau.com/views/BellaBeatDash/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
+**[BellaBeat Dashboard](https://public.tableau.com/views/BellaBeatDash/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
 ![Most](https://github.com/Juwan23D/BellaBeat/blob/main/Screenshot_7-5-2024_123547_public.tableau.com.jpeg)
 
-**BellaBeat Presentation(https://docs.google.com/presentation/d/13i26OjJO6J7vGD5g98reZayhKywqOWQcXI34RcF8T0w/edit?usp=sharing)**
+**[BellaBeat Presentation](https://docs.google.com/presentation/d/13i26OjJO6J7vGD5g98reZayhKywqOWQcXI34RcF8T0w/edit?usp=sharing)**
 
 ![Most](https://github.com/Juwan23D/BellaBeat/blob/main/Screenshot_7-5-2024_123728_docs.google.com.jpeg)
 
