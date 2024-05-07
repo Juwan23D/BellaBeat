@@ -108,6 +108,29 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 --Select Count (Distinct id)
 --From [BellaBeat data - sleepDay (1)]
 ```
+# Share
+
+BellaBeat Dashboard
+
+BellaBeat Presentation
+
+# Act
+
+ * My suggestion would be to make BelaBeats Leaf and Ivy easy and simple to use in order to increase the likelihood of users exploring the features of the wearable more. Most people have a short attention span, so the user turning on a feature easily could encourage them to see other functions before they move on to something else.  
+
+
+* A marketing campaign to increase brand awareness would also keep BellaBeat in the minds of its targeted audience.  
+
+
+* We are in an era where mental health is being focused on more than ever before, and an exercise journey can be a daunting one. BellaBeat should become more hands on with engaging with its consumers, such as weekly videos, daily tips, encouraging quotes, and promoting its female exclusive features. With the increase in handheld technology such as phones and tablets, BellaBeat using their app for these purposes can create an opening for engagement with its audience.
+
+
+* Bella Beats menstrual cycle tracker, diary, and readiness score brings the relatable feel of having a big sister to help guide women through life. The marketing team could lead with these three in forming a connection with women in order to pull them away from the competition.
+
+  [Bellabeat’s Ivy bracelet tries to do it all — but it can only do some | TechCrunch](https://techcrunch.com/2021/11/12/bellabeat-ivy-bracelet-health-tracker-review/)
+
+
+
    
 
 
