@@ -71,6 +71,10 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 
   # Analyze
 
+  ## Summary: 
+   Sršen wants to analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. We will be applying these insights to the Ivy and Leaf products.
+  
+
    
 
 
