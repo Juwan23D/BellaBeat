@@ -73,8 +73,41 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 
   ## Summary: 
    Sršen wants to analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. We will be applying these insights to the Ivy and Leaf products.
-  
 
+  **Measured Activity Time**
+  
+  * Participants wearing the tracker mostly were stationary when wearing the FitBit. Sedentary is the least beneficial of the 4 categories to a participants fitness journey and won’t build their actual interest in the tracker.
+```
+   --Select SUM(SedentaryMinutes) as [SM],
+--	   SUM(LightlyActiveMinutes) as [LA],
+--	   SUM(FairlyActiveMinutes) as [FA],
+--	   SUM(VeryActiveMinutes) as [VA]
+--FROM	[BellaBeat daily]
+```
+**Daily Steps Active Participants**
+
+* Even though all 33 participants were tracked, only 4 of them actually tried to engage with the fitbit to get more out of their daily steps. The Fitbit is automatic, but whenever they have it off for a duration of time such as to take a shower and beyond, they have no interest in trying to help the device log the information that it wasn't in position to receive. This means the participants are less likely to explore the fitbits capabilities, and are missing out on other features that could help them on their exercise journey.
+
+```
+--Select Count (Distinct id)
+--From [SQL Prac].[dbo].[BellaBeat daily]
+```
+**Number of Participants who used the weight features**
+
+* When it comes to the weight, only 8 out of the 33 participants actually logged their weight. This can impact results by making the wearers miss their goals such as drinking less water than what their body requires to lose weight. Even certain manual weight loss features such as exercise, calorie intake, and body composition are probably completely unknown to the consumer.
+
+```
+--Select COUNT (Distinct id)
+--From [BellaBeat data - weightLogInfo]
+```
+**Number of Participants Who used the sleep features** 
+
+* This was a more positive outcome because it shows that more than half set their tracker to monitor their sleep. Granted they only needed to sleep with it on, the fact that they did speaks volumes. What about this feature encouraged a 72% usage vs the others that couldn’t even get to 30%? The accessibility of the feature is important, because it may be alot easier to get to and simpler to use. 
+
+```
+--Select Count (Distinct id)
+--From [BellaBeat data - sleepDay (1)]
+```
    
 
 
