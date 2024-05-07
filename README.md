@@ -2,23 +2,23 @@
 I took on the role of a junior data analyst for Bella Beat, and analyzed smart device data to gain insight into how consumers are using their smart devices. The purpose of my analysis was to help guide future marketing strategies for Bella Beat so they can properly promote their devices to their targeted audience. 
 Along the way, I performed numerous real-world tasks that involved using the data analysis process to expand my way of perceiving data, and helping Bella Beat gather useful data driven information.
 
-BellaBeat Dashboard
+**[BellaBeat Dashboard](https://public.tableau.com/views/BellaBeatDash/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
-BellaBeat Presentation
+**[BellaBeat Presentation](https://docs.google.com/presentation/d/13i26OjJO6J7vGD5g98reZayhKywqOWQcXI34RcF8T0w/edit?usp=sharing)**
 
 _6 step data analysis process_
 
-Ask
+**[Ask](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#ask)**
 
-Prepare
+**[Prepare](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#prepare)**
 
-Process
+**[Process](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#process)**
 
-Analyze
+**[Analyze](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#analyze)**
 
-Share
+**[Share](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#share)**
 
-Act
+**[Act](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#act)**
 
 # Ask
 
@@ -84,6 +84,8 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 --	   SUM(VeryActiveMinutes) as [VA]
 --FROM	[BellaBeat daily]
 ```
+![Most](https://github.com/Juwan23D/BellaBeat/blob/main/Screenshot_7-5-2024_122022_public.tableau.com.jpeg)
+
 **Daily Steps Active Participants**
 
 * Even though all 33 participants were tracked, only 4 of them actually tried to engage with the fitbit to get more out of their daily steps. The Fitbit is automatic, but whenever they have it off for a duration of time such as to take a shower and beyond, they have no interest in trying to help the device log the information that it wasn't in position to receive. This means the participants are less likely to explore the fitbits capabilities, and are missing out on other features that could help them on their exercise journey.
@@ -92,6 +94,8 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 --Select Count (Distinct id)
 --From [SQL Prac].[dbo].[BellaBeat daily]
 ```
+![Most](https://github.com/Juwan23D/BellaBeat/blob/main/Screenshot_7-5-2024_122949_docs.google.com.jpeg)
+
 **Number of Participants who used the weight features**
 
 * When it comes to the weight, only 8 out of the 33 participants actually logged their weight. This can impact results by making the wearers miss their goals such as drinking less water than what their body requires to lose weight. Even certain manual weight loss features such as exercise, calorie intake, and body composition are probably completely unknown to the consumer.
@@ -100,6 +104,8 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 --Select COUNT (Distinct id)
 --From [BellaBeat data - weightLogInfo]
 ```
+![Most](https://github.com/Juwan23D/BellaBeat/blob/main/Screenshot_7-5-2024_12328_docs.google.com.jpeg)
+
 **Number of Participants Who used the sleep features** 
 
 * This was a more positive outcome because it shows that more than half set their tracker to monitor their sleep. Granted they only needed to sleep with it on, the fact that they did speaks volumes. What about this feature encouraged a 72% usage vs the others that couldn’t even get to 30%? The accessibility of the feature is important, because it may be alot easier to get to and simpler to use. 
@@ -108,11 +114,16 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 --Select Count (Distinct id)
 --From [BellaBeat data - sleepDay (1)]
 ```
+![Most](https://github.com/Juwan23D/BellaBeat/blob/main/Screenshot_7-5-2024_123333_docs.google.com.jpeg)
 # Share
 
-BellaBeat Dashboard
+**BellaBeat Dashboard(https://public.tableau.com/views/BellaBeatDash/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
-BellaBeat Presentation
+![Most](https://github.com/Juwan23D/BellaBeat/blob/main/Screenshot_7-5-2024_123547_public.tableau.com.jpeg)
+
+**BellaBeat Presentation(https://docs.google.com/presentation/d/13i26OjJO6J7vGD5g98reZayhKywqOWQcXI34RcF8T0w/edit?usp=sharing)**
+
+![Most](https://github.com/Juwan23D/BellaBeat/blob/main/Screenshot_7-5-2024_123728_docs.google.com.jpeg)
 
 # Act
 
