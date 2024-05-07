@@ -50,7 +50,17 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 
   [Furberg, Robert; Brinton, Julia; Keating, Michael ; Ortiz, Alexa](https://zenodo.org/record/53894#.YMoUpnVKiP9)
 
-# Process
+ # Process
+**Google Sheets**
+ * Removed 3 duplicates
+ * Deleted 'Fat' column because of zero values and whitespace
+ * No spelling errors
+ * Changed format for date and time to be eligible for SQL
+
+ **SQL**
+ * Varied participants by dataset, Daily activity= 33, sleep day=24, weight log=8 user IDS
+ * Measured activity time, and distance
+ * Joined tables to verify varying participation
 
 
 
