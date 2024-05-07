@@ -62,6 +62,8 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
  * Measured activity time, and distance
  * Joined tables to verify varying participation
 
+   **[SQL Code](https://github.com/Juwan23D/BellaBeat/blob/main/BellaQuery.sql)**
+
 
 
 
