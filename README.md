@@ -27,4 +27,15 @@ Act
 
 * Fitness trackers and Smartwatches are among the most popular wearables amongst people growing from 9% to 33% within the last few years. Quantilope ran a survey of 248 US wearable owners from the ages of 18-69, and 63% of them owned a fitness tracker or smart watch. [Wearable technology trends that will shape healthcare in 2022 insiderintelligence.com
 Quantilope](https://www.insiderintelligence.com/insights/top-healthcare-wearable-technology-trends/)
+
+* Women spend more time searching on an app on their smartphone, and even more time on their tablet than men. Millennial womens purchasing power is growing, and they are more likely to spend money on high-cost items that have a good deal, positive customer reviews, and a brand's origin story along with its stance on social issues. [Millennial Women Have Strong Purchasing Power. What Influences It? - Marketing Charts Women Are Above-Average Users of Smartphones and Tablets - Marketing Charts](https://www.marketingcharts.com/demographics-and-audiences/women-demographics-and-audiences-82773) 
+
+2. How could these trends apply to Bellabeat customers?
+   * These trends can apply to Bellabeats wearable health tracker Ivy and Leaf. With online purchases surging, electronics are normally a pricey item people are more than willing to buy especially if it improves daily quality of life. Headphones that fit over your ear so it's less likely to fall off when you're working out, or smaller ones so you can hide it behind your hair are ideas that influence people's decisions to buy certain products. With the 2020 pandemic, fitness being promoted on social media, and people becoming more aware of their health in general, smartwatches and fitness trackers have become very popular amongst the general public. They are especially more popular amongst women who are leading the growth of 96%  in wearable sales. [Global wearable sales double YoY, women users lead the way - Futurum Research.](https://futurumresearch.com/pew-the-size-of-the-wearables-market-has-doubled-since-last-year/#:~:text=According%20to%20the%20study%2C%2021,to%20attract%20more%20male%20shoppers.) With millennial women increasing purchasing power, and the growing market of wearables, Bellabeats Ivy has an opportunity of standing out amongst consumers.
+
+3. How could these trends help influence Bellabeat marketing strategy?
+   * These trends can help identify Bellabeats' audience of women, and where to promote it. Social networking sites such as Facebook, Instagram, and Pinterest are very popular amongst women and they spend the majority of their time on their electronic devices on these apps. Ivy’s elegant style can be used to its advantage with its abilities to analyze the body's vitals, and is relatable since it can also help track a woman's menstrual cycle. This can also increase Bellabeats brand and make women feel as if they have a company who understands them, by making sure they are in top condition as they live their story.
+
+     Task: Make recommendations to BellaBeats Marketing team to help them see how consumers use wearable technology.
+
   
