@@ -59,7 +59,12 @@ Source: [Bella Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 
  **SQL**
  * Varied participants by dataset, Daily activity= 33, sleep day=24, weight log=8 user IDS
+
+   _This caught my attention because of how the variance can impact results. Except them not participating made me realize that this is more than just analyzing peoples habits, but also their interest._
  * Measured activity time, and distance
+
+    _These 2 metrics corellated with each other because it tells how much time was put in to the excercise, and how far they went._    
+ 
  * Joined tables to verify varying participation
 
    **[SQL Code](https://github.com/Juwan23D/BellaBeat/blob/main/BellaQuery.sql)**
