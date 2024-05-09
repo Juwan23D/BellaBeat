@@ -8,9 +8,9 @@ Along the way, I performed numerous real-world tasks that involved using the dat
 
 _6 step data analysis process_
 
-**[Ask](https://github.com/Juwan23D/BellaBeat?tab=readme-ov-file#ask000000000000000)**
+**[Ask](https://github.com/Juwan23D/BellaBeat?tab=readme-ov-file#ask)**
 
-**[Prepare](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#prepare)**
+**[Prepare](https://github.com/Juwan23D/BellaBeat?tab=readme-ov-file#prepare)**
 
 **[Process](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#process)**
 
