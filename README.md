@@ -14,7 +14,7 @@ _6 step data analysis process_
 
 **[Process](https://github.com/Juwan23D/BellaBeat?tab=readme-ov-file#process)**
 
-**[Analyze](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#analyze)**
+**[Analyze](https://github.com/Juwan23D/BellaBeat/blob/main/README.md#analyze)**
 
 **[Share](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#share)**
 
