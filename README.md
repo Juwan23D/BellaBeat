@@ -16,7 +16,7 @@ _6 step data analysis process_
 
 **[Analyze](https://github.com/Juwan23D/BellaBeat/blob/main/README.md#analyze)**
 
-**[Share](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#share)**
+**[Share](https://github.com/Juwan23D/BellaBeat/blob/main/README.md#share)**
 
 **[Act](https://github.com/Juwan23D/BellaBeat/edit/main/README.md#act)**
 
